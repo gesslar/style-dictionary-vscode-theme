@@ -52,7 +52,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"chokidar-cli": "^2.0.0",
+		"chokidar-cli": "^3.0.0",
 		"style-dictionary": "^2.8.2"
 	},
 	"__metadata": {
